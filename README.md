@@ -7,4 +7,5 @@ edit2dev
 edit4master
 test
 
+addnew
 add local
