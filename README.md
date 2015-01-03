@@ -9,3 +9,5 @@ test
 
 addnew
 add local
+
+edit remote 1st
